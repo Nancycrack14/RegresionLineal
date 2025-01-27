@@ -9,7 +9,7 @@ Además, adjunto el archivo de Excel que contiene los datos utilizados como fuen
 
 -[Ver html](RegresionLineal.html)  
 -[Descargar CSV](RegresionLineal.csv)  
--[Descargar archivo.ipynb](RegresionLineal.ipynb)
+-[Descargar archivo.ipynb](RegresionLineal.ipynb)  
 
 
 
