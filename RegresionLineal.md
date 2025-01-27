@@ -7,9 +7,9 @@ Para realizar este análisis, emplearé un archivo de datos titulado "Felicidad 
 
 Además, adjunto el archivo de Excel que contiene los datos utilizados como fuente primaria para este estudio  
 
--[Ver html](RegresionLineal(2).html)  
+-[Ver html](RegresionLineal2.html)  
 -[Descargar CSV](RegresionLineal.csv)  
--[Descargar archivo.ipynb](RegresionLineal(2).ipynb)  
+-[Descargar archivo.ipynb](RegresionLineal2.ipynb)  
 
 
 
